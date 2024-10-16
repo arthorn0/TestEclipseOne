@@ -8,7 +8,7 @@
          
     <servlet>
         <servlet-name>abc</servlet-name>
-        <servlet-class>com.telusco.AddServlet</servlet-class>
+        <servlet-class>com.telusko.AddServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>abc</servlet-name>
